@@ -1,4 +1,4 @@
-baseurl = "https://plitka64.ru"
+baseurl = "https://plitka64.ru/"
 title = "Салон кирамической плитки в магазине Арсенал"
 theme = "hugo-universal-theme"
 languageCode = "ru-RU"
